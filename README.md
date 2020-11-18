@@ -32,3 +32,10 @@ git init
 3. git commit m- " describe your changes"
 4. Repeat this after every edit ;D
 
+5. I'm going to edit this, here's my edit.
+
+Here's how you can embed an image:
+```
+![Alt text](url-of-image-file.jpg)
+```
+
