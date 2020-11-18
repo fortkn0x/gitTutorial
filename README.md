@@ -22,3 +22,13 @@ console.log("mY CODE WORKS PERFECTLY!);
 
 * you can go to markdown API to see how this stuff works, as well! : D
 
+0. git init //makes a new folder
+```
+mkdir folername
+git init
+```
+1. SAVE YOUr file
+2. git add filename
+3. git commit m- " describe your changes"
+4. Repeat this after every edit ;D
+
